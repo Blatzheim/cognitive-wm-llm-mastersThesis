@@ -14,9 +14,11 @@
 ---
 
 ## 📄 Materials
-- Thesis (PDF): [`THESIS/thesis.pdf`](THESIS/thesis.pdf)  
-- Slides: [`TALK/slides.pdf`](TALK/slides.pdf)  
-- Talk Video: [`TALK/video.mp4`](TALK/video.mp4)  
+- Thesis (PDF): [`THESIS/thesis.pdf`](thesis.pdf)  
+- Slides: [`TALK/slides.pdf`](slides.pdf)  
+- Talk Video: [`TALK/video.mp4`](video.mp4) (to be added)
+
+*Note: The accompanying code is still under polishing and will be released in a separate repository once ready.*  
 
 ---
 
