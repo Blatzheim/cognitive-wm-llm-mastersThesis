@@ -35,6 +35,20 @@ Overall, we offer a first grounded MCM-WM design for LLMs, charting a path for e
 ---
 
 ## 📌 Citation
-If you use this work, please cite the Zenodo DOI (to be added):
 
-> Blatzheim, A. (2025). *Cognitive Theory for Deliberate Reasoning: Synthesizing Working Memory Architectures for Large Language Models* (v1.0). Zenodo. DOI: **TBD**
+If you use this work for your research or teaching, please cite:
+
+```bibtex
+@misc{blatzheim2025cognitive,
+  author       = {Alexander Blatzheim},
+  title        = {Cognitive Theory for Deliberate Reasoning: Synthesizing Working Memory Architectures for Large Language Models},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16994845},
+  url          = {https://doi.org/10.5281/zenodo.16994845}
+}
+```
+
+[![DOI](https://zenodo.org/badge/1046852550.svg)](https://doi.org/10.5281/zenodo.16994845)
+
+
