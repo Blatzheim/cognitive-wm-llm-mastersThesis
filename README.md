@@ -14,9 +14,9 @@
 ---
 
 ## 📄 Materials
-- Thesis (PDF): [`THESIS/thesis.pdf`](thesis.pdf)  
-- Slides: [`TALK/slides.pdf`](slides.pdf)  
-- Talk Video: [Available here](https://youtu.be/vhpYZmzwbgE) or by clicking the thumbnail below:  
+- [Thesis (PDF)](thesis.pdf)  
+- [Slides (PDF)](slides.pdf)  
+- [Talk Video](https://youtu.be/vhpYZmzwbgE):  
 
 [![Watch the talk](https://img.youtube.com/vi/vhpYZmzwbgE/0.jpg)](https://youtu.be/vhpYZmzwbgE)
 
