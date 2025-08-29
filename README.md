@@ -1,7 +1,7 @@
 # Cognitive Theory for Deliberate Reasoning  
 ### Synthesizing Working Memory Architectures for Large Language Models
 
-*This thesis explores how cognitive working memory models can inform the design of reasoning mechanisms in Large Language Models, focusing on [Graph-of-Thought](https://github.com/spcl/graph-of-thoughts) as a tesbed.*
+*This thesis explores how cognitive working memory models can inform the design of reasoning mechanisms in Large Language Models, focusing on [Graph-of-Thought](https://github.com/spcl/graph-of-thoughts) as a testbed.*
 
 **Author:** Alexander Blatzheim  
 **Institution:** Technical University of Munich (TUM)  
@@ -16,14 +16,14 @@
 ## 📄 Materials
 - Thesis (PDF): [`THESIS/thesis.pdf`](thesis.pdf)  
 - Slides: [`TALK/slides.pdf`](slides.pdf)  
-- Talk Video: [`TALK/video.mp4`](video.mp4) (to be added)
+- Talk Video: [![Watch the talk](https://img.youtube.com/vi/vhpYZmzwbgE/0.jpg)](https://youtu.be/vhpYZmzwbgE)
 
 *Note: The accompanying code is still under polishing and will be released in a separate repository once ready.*  
 
 ---
 
 ## 📑 Abstract
-Contemporary Large Language Models (LLMs) arguably lack mechanisms for dynamically regulating their expanding reasoning context -- the essential prerequisite for supervisory “System 2” cognition. Graph-of-Thought (GoT), a recent paradigm that simulates reasoning via static prompting graphs, suffers from the identical limitation, in reverse: Thoughts are conditioned solely on immediate predecessors. Consequently, insights from distant or parallel paths remain inaccessible, leaving its stated motivation unfulfilled.\newline
+Contemporary Large Language Models (LLMs) arguably lack mechanisms for dynamically regulating their expanding reasoning context -- the essential prerequisite for supervisory “System 2” cognition. Graph-of-Thought (GoT), a recent paradigm that simulates reasoning via static prompting graphs, suffers from the identical limitation, in reverse: Thoughts are conditioned solely on immediate predecessors. Consequently, insights from distant or parallel paths remain inaccessible, leaving its stated motivation unfulfilled.
 This recalls parallels to working memory (WM), in a second disconnect: While agentic systems invoke the term “working memory”, the dominant cognitive model, the Multi-Component Model (MCM), appears absent from LLM research, despite offering a rich and modular design space for managing limited, task-relevant context -- directly aligned with LLM reasoning challenges.
 
 Our work bridges both gaps: First, we develop a software-architectural interpretation of the MCM to ground further WM design. Next, we synthesize an extendable WM core architecture for LLMs, agnostic to task and integration specifics. We then implement four task-agnostic WM variants, along two axes: Memory structure (flat vs. tree) and retrieval backend (LLM-only vs. embedding-hybrid), each accumulating reflections on GoT thoughts as primary memory content. These are integrated into GoT and evaluated for their ability to distill reasoning context across expanding graphs.
