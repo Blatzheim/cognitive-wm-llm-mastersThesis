@@ -3,7 +3,7 @@
 
 *This thesis explores how cognitive working memory models can inform the design of reasoning mechanisms in Large Language Models, focusing on [Graph-of-Thought](https://github.com/spcl/graph-of-thoughts) as a testbed.*
 
-**Author:** Alexander Blatzheim (alexander.blatzheim{at}tum.de)
+**Author:** Alexander Blatzheim (alexander.blatzheim{at}tum.de)  
 **Institution:** Technical University of Munich (TUM)  
 **Program:** Master’s Thesis in Information Systems  
 **Research Group:** Social Computing, Department of Computer Science  
