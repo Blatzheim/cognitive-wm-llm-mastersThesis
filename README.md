@@ -16,9 +16,9 @@
 ## 📄 Materials
 - [Thesis (PDF)](thesis.pdf)  
 - [Slides (PDF)](slides.pdf)  
-- [Talk Video](https://youtu.be/vhpYZmzwbgE):  
+- [Talk Video](https://youtu.be/FzlWIkjBjSw):  
 
-[![Watch the talk](https://img.youtube.com/vi/vhpYZmzwbgE/0.jpg)](https://youtu.be/vhpYZmzwbgE)
+[![Watch the talk](https://img.youtube.com/vi/vhpYZmzwbgE/0.jpg)](https://youtu.be/FzlWIkjBjSw)
 
 *Note: The accompanying code is still under polishing and will be released in a separate repository once ready.*  
 
